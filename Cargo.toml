@@ -1,0 +1,10 @@
+[package]
+
+name = "raven"
+version = "0.0.1"
+authors = ["rokkincat <josh@rokkincat.com>"]
+
+[lib]
+
+name = "raven"
+
